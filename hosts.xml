@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hosts>
+    <host name="localhost">127.0.0.1</host>
+    <host name="example.com">93.184.216.34</host>
+    <host name="github.com">140.82.112.3</host>
+</hosts>
